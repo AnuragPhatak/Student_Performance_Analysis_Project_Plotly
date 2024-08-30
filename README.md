@@ -1,9 +1,9 @@
-Student Performance Analysis Project
+# Student Performance Analysis Project
 
-Overview
+**Overview**
 A project analyzing student data to uncover key factors influencing GPA and Grade Class. It includes data exploration, visualization, and identification of predictive features.
 
-Key Features
+**Key Features**
 Data Analysis: Examined how factors like absences and study time affect GPA.
 Visualizations: Created charts and graphs to visually represent the data.
 Key Findings: Summarized the most important insights from the analysis.
