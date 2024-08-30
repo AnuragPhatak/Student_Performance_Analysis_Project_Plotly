@@ -1,3 +1,4 @@
+Student Performance Analysis Project
 Overview
 A project analyzing student data to uncover key factors influencing GPA and Grade Class. It includes data exploration, visualization, and identification of predictive features.
 
