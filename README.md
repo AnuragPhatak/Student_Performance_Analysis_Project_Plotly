@@ -1,13 +1,14 @@
 # Student Performance Analysis Project
 
-**Overview**
+### Overview
 A project analyzing student data to uncover key factors influencing GPA and Grade Class. It includes data exploration, visualization, and identification of predictive features.
 
-**Key Features**
-Data Analysis: Examined how factors like absences and study time affect GPA.
-Visualizations: Created charts and graphs to visually represent the data.
-Key Findings: Summarized the most important insights from the analysis.
-Predictive Features: Identified key columns that can help predict Grade Class.
+### Key Features
+- **Data Analysis:** Examined how factors like absences and study time affect GPA.
+- **Visualizations:** Created charts and graphs to visually represent the data.
+- **Key Findings:** Summarized the most important insights from the analysis.
+- **Predictive Features:** Identified key columns that can help predict Grade Class.
+
 
 
 <img width="844" alt="image" src="https://github.com/user-attachments/assets/ad7ed9ed-dfd4-4696-be9e-f5dd7500e5c9">
